@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdgusdn0106)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="http://mazandi.herokuapp.com/api?handle={ash_girlfriend}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=ash_girlfriend&theme=warm"/>
