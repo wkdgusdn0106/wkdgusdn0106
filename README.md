@@ -15,7 +15,7 @@
 <h3 align='center'> Studying </h3>
 <div align='center'>
   <img src="https://img.shields.io/badge/lua-F0F0F0.svg?style=for-the-badge&logo=lua&logoColor=2C2D72" />&nbsp
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
 </div>
 
