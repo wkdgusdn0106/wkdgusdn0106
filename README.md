@@ -9,7 +9,7 @@
 
 <h3 align='center'> Studying </h3>
 <div algin='center'>
-  <img src="https://img.shields.io/badge/lua-E34F26.svg?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/lua-FFFFFF.svg?style=for-the-badge&logo=lua&logoColor=blue" />&nbsp
 </div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ash_girlfriend)](https://solved.ac/ash_girlfriend)
