@@ -20,11 +20,13 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
 </div>
-<div align = 'center'>
 </details>
 
+
+ <br>
+
  
-<br>
+<div align = 'center'>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ash_girlfriend)](https://solved.ac/ash_girlfriend)
 
