@@ -1,3 +1,9 @@
+<details>
+	<summary>클릭 전 볼 수 있는 영역</summary>
+	<span>클릭 후에만 표시되는 영역</span>
+</details>
+
+
 <h3 align="center">Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp
