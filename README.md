@@ -3,14 +3,15 @@
 	<span>클릭 후에만 표시되는 영역</span>
 </details>
 
-
-<h3 align="center">Tech Stack</h3>
-<div align="center">
+<details>
+<summary align="center">Tech Stack</sumary>
+<span align="center">
   <img src="https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
-
+</span>
+</details>details>
+	
 <div align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> &nbsp 
